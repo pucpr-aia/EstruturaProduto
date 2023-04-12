@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Estrutura de produto
 
+=======
+>>>>>>> 66a366b7ea09a979ab64be964b103a8e9d0f12cc
 ### Introdução
 Este documento tem como objetivo documentar os detalhes técnicos utilizados na produção do software da experiência de estrutura de produto.
 
@@ -17,7 +20,13 @@ https://github.com/pucpr-aia/vrconfigs/blob/main/picoconfig.md
 
 #### Arquitetura
 
+<<<<<<< HEAD
 ![alt text](product.drawio%20(1).png)
+=======
+![[product.drawio (1).png]]
+
+Imagem: [[Classes estrutura de produto]]
+>>>>>>> 66a366b7ea09a979ab64be964b103a8e9d0f12cc
 
 **Interfaces de usuário:** Componentes responsáveis por fornecer a interface do usuário para a experiência. Eles precisarão disparar exibição dos modelos através do carregador de modelos, lidar com input do usuário e fornecer feedbacks.
 
