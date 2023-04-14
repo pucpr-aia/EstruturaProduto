@@ -37,7 +37,8 @@ A seguir, estão listadas algumas funcionalidades a serem implementadas alinhada
 - Como sistema devo ser capaz de monitorar o tempo gasto em cada etapa do projeto
 
 ## Arquitetura
-![alt text](product.drawio%20(1).png)
+Dado o escopo e as funcionalidades, a seguinte arquitetura foi planejada.
+![alt text](Diagrama.png)
 
 **Interfaces de usuário:** Componentes responsáveis por fornecer a interface do usuário para a experiência. Eles precisarão disparar exibição dos modelos através do carregador de modelos, lidar com input do usuário e fornecer feedbacks.
 
