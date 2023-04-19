@@ -38,7 +38,7 @@ A seguir, estão listadas algumas funcionalidades a serem implementadas alinhada
 
 ## Arquitetura
 Dado o escopo e as funcionalidades, a seguinte arquitetura foi planejada.
-![alt text](Diagrama.png)
+![alt text](img/Diagrama.png)
 
 **Interfaces de usuário:** Componentes responsáveis por fornecer a interface do usuário para a experiência. Eles precisarão disparar exibição dos modelos através do carregador de modelos, lidar com input do usuário e fornecer feedbacks.
 
