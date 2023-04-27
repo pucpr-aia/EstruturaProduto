@@ -18,11 +18,11 @@ Algumas das funcionalidades essenciais:
 
 O estilo visual definido foi de uma abordagem mais simples dos produtos, também conhecida em termos de jogos como "low poly". A adoção de um estilo visual mais simples possibilita a produção autonoma dos produtos em 3D e mais facilidade na customização.
 
-O ponto inicial da solução é utilizar um produto com complexidade simples para desenvolver uma versão funcional da experiência, a fim de testar e detectar possíveis melhorias. Com auxílio dos professores solicitantes, o produto escolhido foi uma bicicleta.
+A solução até aqui proposta foi validada pelos professores solicitantes. O ponto inicial da solução é utilizar um produto com complexidade simples para desenvolver uma versão funcional da experiência, a fim de testar e detectar possíveis melhorias. Com auxílio dos professores solicitantes, o produto escolhido foi uma bicicleta.
 
 ![alt text](Docs/img/545698.png)
 
-O diagrama demonstra detalhadamente os componentes da bicicleta, que serve como referência para o desenvolvimento da versão inicial da experiência. Como previsto, é possível realizar separação em módulos do produto inteiro e por fim separá-lo em peças elementares em que é possível definir o material e descrição da peça.
+ O diagrama demonstra detalhadamente os componentes da bicicleta, que serve como referência para o desenvolvimento da versão inicial da experiência. Como previsto, é possível realizar separação em módulos do produto inteiro e por fim separá-lo em peças elementares em que é possível definir o material e descrição da peça.
 
 Protótipo de mecânicas: https://tinyurl.com/25jfrjyr
 
